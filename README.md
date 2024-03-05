@@ -7,3 +7,7 @@ systemctl {status} {name_service}
 ```
 top
 ```
+- Find
+```
+grep
+```
