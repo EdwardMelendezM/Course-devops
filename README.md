@@ -21,6 +21,9 @@ run.sh
 - mod
 ```
 
+# EC2
+- 
+
 # Snapshot bakupt and restore SBR
 - Unmoun partition
 - Detach volume
