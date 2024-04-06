@@ -21,8 +21,9 @@ run.sh
 - mod
 ```
 
-# EC2
-- 
+# Elastic Computed Cloud (EC2)
+- Create key pair
+- Create a security group and adding inbound rules
 
 # Snapshot bakupt and restore SBR
 - Unmoun partition
