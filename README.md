@@ -21,9 +21,16 @@ run.sh
 - mod
 ```
 
+# SSH
+ - Ingress with credentials, user and public ipv4
+ - ssh -i {key-pair} user@123.12.13.1
+
+# Sudo
+ - sudo -i
+
 # Elastic Computed Cloud (EC2)
 - Create key pair
-- Create a security group and adding inbound rules
+- Create a security group and adding inbound and outbound rules 
 
 # Snapshot bakupt and restore SBR
 - Unmoun partition
@@ -53,5 +60,11 @@ run.sh
  - Amazon Relationl Database Service
  - High Availability Multi-AZ
  - Read replicas for performance
- - 
+
+# Multistage with docker
+ - First compile app with its dependencies in a docker AS IMAGE_BUILD
+ - Then create new image with dependencies just app compiled
+ - Optimized size and dependencies
+
+
 
