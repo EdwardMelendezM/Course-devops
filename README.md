@@ -66,5 +66,9 @@ run.sh
  - Then create new image with dependencies just app compiled
  - Optimized size and dependencies
 
-
-
+# Kubernetes
+- Pods
+- Deployment
+- Service
+- Ingress
+  
