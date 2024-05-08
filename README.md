@@ -71,4 +71,9 @@ run.sh
 - Deployment
 - Service
 - Ingress
-  
+
+# Terraform
+- ec2
+- variables
+- resource
+- Subnets
