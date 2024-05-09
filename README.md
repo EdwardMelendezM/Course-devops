@@ -77,3 +77,11 @@ run.sh
 - variables
 - resource
 - Subnets
+
+# Pending
+- Re Architecting web app on aws cloud PASS & SAAS\
+- Jenkins
+- Ansible
+- AWS part-2
+- AWS CI/CD
+- CloudFormation 
