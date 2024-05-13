@@ -71,6 +71,7 @@ run.sh
 - Deployment
 - Service
 - Ingress
+- Config
 
 # Terraform
 - ec2
